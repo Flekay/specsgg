@@ -1,0 +1,80 @@
+
+-> 'pubg' <-
+
+
+keybinds:
+    AIM Method - > $profile[0]['settings']['keybinds'][0]
+    Vault - > $profile[0]['settings']['keybinds'][1]
+    Reload - > $profile[0]['settings']['keybinds'][2]
+    Equip Grenade - > $profile[0]['settings']['keybinds'][3]
+    AIM - > $profile[0]['settings']['keybinds'][4]
+    Jump - > $profile[0]['settings']['keybinds'][5]
+    Cycle Fire Mode - > $profile[0]['settings']['keybinds'][6]
+    Equip Smoke - > $profile[0]['settings']['keybinds'][7]
+    ADS - > $profile[0]['settings']['keybinds'][8]
+    Auto Run - > $profile[0]['settings']['keybinds'][9]
+    Crouch - > $profile[0]['settings']['keybinds'][10]
+    Use First Aid - > $profile[0]['settings']['keybinds'][11]
+    Prone - > $profile[0]['settings']['keybinds'][12]
+    Quickmarker - > $profile[0]['settings']['keybinds'][13]
+    Holster Weapon - > $profile[0]['settings']['keybinds'][14]
+    Use Energy Drink - > $profile[0]['settings']['keybinds'][15]
+    Interact - > $profile[0]['settings']['keybinds'][16]
+    Driver Seat - > $profile[0]['settings']['keybinds'][17]
+    Move to Seat 2 - > $profile[0]['settings']['keybinds'][18]
+    Move to Seat 3 - > $profile[0]['settings']['keybinds'][19]
+
+
+mouse:
+    DPI - > $profile[0]['settings']['mouse'][0]
+    Aim Sens - > $profile[0]['settings']['mouse'][1]
+    4x Scope - > $profile[0]['settings']['mouse'][2]
+    ADS Sens - > $profile[0]['settings']['mouse'][3]
+    Polling Rate - > $profile[0]['settings']['mouse'][4]
+    6x Scope - > $profile[0]['settings']['mouse'][5]
+    General Sens - > $profile[0]['settings']['mouse'][6]
+    2x Scope - > $profile[0]['settings']['mouse'][7]
+    8x Scope - > $profile[0]['settings']['mouse'][8]
+    Vertical Sens - > $profile[0]['settings']['mouse'][9]
+    3x Scope - > $profile[0]['settings']['mouse'][10]
+    15x Scope - > $profile[0]['settings']['mouse'][11]
+
+
+video:
+    Resolution - > $profile[0]['settings']['video'][0] <!-- Resolution Y -->
+    Digital Vibrance - > $profile[0]['settings']['video'][1]
+    Colorblind Type - > $profile[0]['settings']['video'][2]
+    View Distance - > $profile[0]['settings']['video'][3]
+    Display Mode - > $profile[0]['settings']['video'][4]
+    Brightness - > $profile[0]['settings']['video'][5]
+    Crosshair Color - > $profile[0]['settings']['video'][6]
+    Sharpen - > $profile[0]['settings']['video'][7]
+    Refresh Rate - > $profile[0]['settings']['video'][8]
+    Effects - > $profile[0]['settings']['video'][9]
+    Render Scale - > $profile[0]['settings']['video'][10]
+    FOV - > $profile[0]['settings']['video'][12]
+    Foliage - > $profile[0]['settings']['video'][13]
+    Korean Rating - > $profile[0]['settings']['video'][14]
+    Motion Blur - > $profile[0]['settings']['video'][15]
+    Anti Aliasing - > $profile[0]['settings']['video'][16]
+    Post-Processing - > $profile[0]['settings']['video'][17]
+    Resolution - > $profile[0]['settings']['video'][18] <!-- Resolution X -->
+    Shadows - > $profile[0]['settings']['video'][19]
+    Ratio - > $profile[0]['settings']['video'][20]
+    Textures - > $profile[0]['settings']['video'][21]
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
