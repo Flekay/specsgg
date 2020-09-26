@@ -6,7 +6,7 @@
 
 function specsgg($profile, $game){
 
-    if (!file_exists(dirname(__FILE__)."/specs/config.php")) {
+    if (!file_exists(dirname(__FILE__)."/config.php")) {
 
         echo 'config file cound not be found!';
 
@@ -14,7 +14,7 @@ function specsgg($profile, $game){
 
     }else{
 
-        require dirname(__FILE__)."/specs/config.php";
+        require dirname(__FILE__)."/config.php";
 
         $response = loadspecs($profile, $game);
 
@@ -38,7 +38,7 @@ function specsgg($profile, $game){
 
     }else {
 
-        if (!file_exists(dirname(__FILE__)."/specs/games/".$game.".php")) {
+        if (!file_exists(dirname(__FILE__)."/games/".$game.".php")) {
 
             echo $game.' file cound not be found!';
 
@@ -46,7 +46,7 @@ function specsgg($profile, $game){
 
         }else {
 
-            require dirname(__FILE__)."/specs/games/".$game.".php";
+            require dirname(__FILE__)."/games/".$game.".php";
 
         }
 
@@ -60,7 +60,7 @@ function specsgg($profile, $game){
 
 function loadspecs($profile, $game){
 
-    require dirname(__FILE__)."/specs/config.php";
+    require dirname(__FILE__)."/config.php";
 
     // DO NOT TOUCH
 
