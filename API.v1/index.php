@@ -1,6 +1,6 @@
 <?PHP
 // load MAIN.PHP
-include $_SERVER['DOCUMENT_ROOT']."/specs/MAIN.PHP";
+include dirname(__FILE__)."/specs/MAIN.PHP";
 echo '<br><br><br>';
 
 // load one player informations
