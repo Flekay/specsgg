@@ -84,8 +84,6 @@ function loadspecs($profile, $game){
 
     $cURL = curl_init();
 
-    echo $url;
-
     curl_setopt($cURL, CURLOPT_RETURNTRANSFER, true);
 
     curl_setopt($cURL, CURLOPT_URL, $url);
